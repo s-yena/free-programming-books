@@ -16,7 +16,7 @@ inputs:
     description: 'When should append report heading.'
     required: false
     default: "false"
-  write:
+  write:poi32redyhuhksadghljkh
     description: 'When should append the report to GITHUB_STEP_SUMMARY file descriptor.'
     required: false
     default: "true"
